@@ -30,6 +30,9 @@ The **HR Analytics Dashboard** aims to identify key factors contributing to empl
 - Generated new measures and calculated fields to facilitate KPI analysis.
 
 ### 4. Data Visualization & Analysis
+
+![HR_Analytics_Dashboard](https://github.com/user-attachments/assets/f83fab1d-35bf-4527-8aad-1a7612cde5e0)
+
 - Developed various visualizations, including bar charts, pie charts, and tables to provide a holistic view of the data.
 - Created custom KPIs to measure metrics like total employees, average age, average salary, and attrition trends.
 - Visualizations include:
@@ -67,19 +70,20 @@ The **HR Analytics Dashboard** aims to identify key factors contributing to empl
 3. **Run SQL Queries**: Use the SQL scripts in the `SQL` folder for advanced data analysis and custom queries.
 
 ## Repository Structure
-.
-├── Dataset
-│   ├── HR_Analytics_Dataset.csv
-│   └── Readme.txt
-├── PowerBI
-│   ├── Attrition_Analysis.pbix
-│   ├── HR_Dashboard.png
-│   ├── Overview_Dashboard.png
-│   └── ReadMe.txt
-├── SQL
-│   ├── HR_Analytics_SQL_Queries.sql
-│   └── README.md
-└── README.md (this file)
+    ```bash
+    .
+    ├── Dataset
+    │   ├── HR_Analytics_Dataset.csv
+    │   └── Readme.txt
+    ├── PowerBI
+    │   ├── Attrition_Analysis.pbix
+    │   ├── HR_Dashboard.png
+    │   ├── Overview_Dashboard.png
+    │   └── ReadMe.txt
+    ├── SQL
+    │   ├── HR_Analytics_SQL_Queries.sql
+    │   └── README.md
+    └── README.md (this file)
 
 
 ## Contributing
